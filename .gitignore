@@ -1,3 +1,6 @@
 node_modules/
-bud/
 .idea/
+
+!/bud/
+/bud/*
+!/bud/app
