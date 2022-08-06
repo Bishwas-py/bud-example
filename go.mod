@@ -1,3 +1,5 @@
+// +heroku install ./cmd/...
+
 module github.com/Bishwas-py/bud-learning
 
 go 1.18
